@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App Component > renders the translated text > Translated: test 1`] = `
+<h1>
+  Translated: test
+</h1>
+`;
